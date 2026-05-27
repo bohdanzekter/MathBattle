@@ -1,0 +1,57 @@
+﻿body {
+    background-color: #121212;
+    color: #00ffcc;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+input, select {
+    font-size: 20px;
+    padding: 10px;
+    background: #222;
+    color: #fff;
+    border: 2px solid #00ffcc;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background: #00ffcc;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+    button:hover {
+        background: #00ccaa;
+    }
+
+#question {
+    font-size: 60px;
+    margin: 20px;
+    color: #fff;
+}
+
+.leaderboard {
+    width: 400px;
+    margin: 20px auto;
+    text-align: left;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #333;
+}
+
+    .leaderboard li {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
