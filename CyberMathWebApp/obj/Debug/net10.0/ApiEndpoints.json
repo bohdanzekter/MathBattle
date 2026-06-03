@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "MathBattle.Controllers.CompetitionsController",
+    "Method": "GetAllApproved",
+    "RelativePath": "api/Competitions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MathBattle.Controllers.CompetitionsController",
+    "Method": "Create",
+    "RelativePath": "api/Competitions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MathBattle.Controllers.CompetitionsController\u002BCreateCompDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MathBattle.Controllers.DifficultiesController",
     "Method": "Get",
     "RelativePath": "api/Difficulties",

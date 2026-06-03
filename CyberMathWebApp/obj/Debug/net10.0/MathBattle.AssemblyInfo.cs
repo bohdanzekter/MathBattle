@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathBattle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb13fadfcfdbded807c3a108f2c967dda13ccac")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathBattle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathBattle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

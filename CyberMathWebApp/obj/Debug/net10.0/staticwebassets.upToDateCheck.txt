@@ -1,8 +1,6 @@
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
-wwwroot\index.html
-wwwroot\js\game.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -63,9 +61,11 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\index.html
+wwwroot\js\game.js
 C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\css\site.css
-C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\favicon.ico
 C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\css\style.css
+C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\favicon.ico
 C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\my\source\repos\CyberMathWebApp\CyberMathWebApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css

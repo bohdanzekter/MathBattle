@@ -10,6 +10,8 @@ namespace MathBattle.Models
         public DbSet<Difficulty> Difficulties { get; set; }
         public DbSet<GameSession> GameSessions { get; set; }
         public DbSet<Equation> Equations { get; set; }
+        public DbSet<Competition> Competitions { get; set; }
+        public DbSet<UserEquation> UserEquations { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -28,6 +30,16 @@ namespace MathBattle.Models
               new Equation { Id = 5, Expression = "√144 + 3²", Answer = 21 },
               new Equation { Id = 6, Expression = "d/dx (5x²) при x=3", Answer = 30 }
           );
+
+            modelBuilder.Entity<Competition>().HasData(
+                new Competition { Id = 1, Name = "Boss Fight: Множення", TimeLimitSeconds = 15 }
+            );
+
+            modelBuilder.Entity<UserEquation>().HasData(
+                new UserEquation { Id = 1, CompetitionId = 1, Expression = "12 * 12", Answer = 144, OrderIndex = 1 },
+                new UserEquation { Id = 2, CompetitionId = 1, Expression = "5 * 15", Answer = 75, OrderIndex = 2 },
+                new UserEquation { Id = 3, CompetitionId = 1, Expression = "100 / 4", Answer = 25, OrderIndex = 3 }
+            );
         }
     }
 }

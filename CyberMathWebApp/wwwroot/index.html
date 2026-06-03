@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Math Battle</title>
-    <!-- Підключаємо зовнішній файл стилів -->
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -13,24 +12,52 @@
     <!-- Екран 1: Налаштування -->
     <div id="startScreen">
         <input type="text" id="nickname" placeholder="Твій нікнейм..." maxlength="15" autocomplete="off"><br>
-        <select id="difficultySelect">
-            <!-- Заповниться через Fetch API -->
+
+        <h3 style="color: #00ffcc;">Нескінченний режим</h3>
+        <select id="difficultySelect"></select><br>
+        <button onclick="Game.startEndless()">START 60s SPRINT</button>
+
+        <hr style="border-color: #333; margin: 30px auto; width: 50%;">
+
+        <h3 style="color: #ff9800;">Кастомні рівні (від гравців)</h3>
+        <select id="competitionSelect">
+            <option value="">-- Обери рівень --</option>
         </select><br>
-        <button onclick="startGame()">START 60s SPRINT</button>
+        <button onclick="Game.startCompetition()" style="background: #ff9800;">ГРАТИ РІВЕНЬ</button><br>
+        <button onclick="Game.showCreateScreen()" style="background: #444; color: #fff; font-size: 16px; margin-top: 15px;">+ Створити свій рівень</button>
     </div>
 
-    <!-- Екран 2: Гра -->
+    <!-- Екран 2: Створення рівня (НОВИЙ) -->
+    <div id="createScreen" class="hidden">
+        <h2 style="color: #ff9800;">СТВОРИТИ СВІЙ РІВЕНЬ</h2>
+        <p style="color: #888;">Рівень з'явиться у списку після перевірки адміністратором.</p>
+
+        <input type="text" id="compName" placeholder="Назва рівня (напр. Пекельна математика)" style="width: 350px;"><br>
+        <input type="number" id="compTime" placeholder="Час на проходження (сек)" style="width: 350px;"><br>
+
+        <div id="eqList" style="margin: 20px 0;">
+        </div>
+
+        <div style="margin-bottom: 20px;">
+            <button onclick="Game.addEqRow()" style="background: #444; color: #fff; font-size: 16px;">+ Додати приклад</button>
+            <button onclick="Game.removeLastEqRow()" style="background: #dc3545; color: #fff; font-size: 16px; margin-left: 10px;">- Видалити останній</button>
+        </div>
+        <button onclick="Game.saveCompetition()" style="background: #1ED760;">ВІДПРАВИТИ НА МОДЕРАЦІЮ</button>
+        <button onclick="location.reload()" style="background: #dc3545;">СКАСУВАТИ</button>
+    </div>
+
+    <!-- Екран 3: Гра -->
     <div id="gameScreen" class="hidden">
         <h2 style="color: #ff3366;">Час: <span id="time">60</span>с</h2>
         <h3 style="color: #ffff00;">Рахунок: <span id="score">0</span></h3>
         <div id="question">2 + 2 = ?</div>
-        <input type="number" id="answer" autocomplete="off" oninput="checkAnswer()">
+        <input type="number" id="answer" autocomplete="off" oninput="Game.checkAnswer()">
     </div>
 
-    <!-- Екран 3: Результати -->
+    <!-- Екран 4: Результати -->
     <div id="endScreen" class="hidden">
         <h2>ГРА ЗАКІНЧЕНА!</h2>
-        <h3>Твій рахунок: <span id="finalScore">0</span></h3>
+        <h3><span id="finalScore">0</span></h3>
         <button onclick="location.reload()">ГРАТИ ЩЕ РАЗ</button>
 
         <div class="leaderboard">
@@ -39,7 +66,6 @@
         </div>
     </div>
 
-    <!-- Підключаємо зовнішній файл логіки -->
     <script src="js/game.js"></script>
 </body>
 </html>

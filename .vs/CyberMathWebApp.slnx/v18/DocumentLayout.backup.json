@@ -3,72 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\userequations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\userequations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212951_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CyberMathWebApp\\Migrations\\20260526212951_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\equationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\equationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|solutionrelative:cybermathwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\equation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212646_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CyberMathWebApp\\Migrations\\20260526212646_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|solutionrelative:cybermathwebapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|solutionrelative:cybermathwebapp\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\migrations\\20260526215833_addexpertlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\migrations\\20260526215833_addexpertlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\mathbattle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\mathbattle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\migrations\\20260526212951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\migrations\\20260526212951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A23D34B-2E28-5E32-D96B-5FC87D0216AC}|CyberMathWebApp\\MathBattleDomain.csproj|solutionrelative:cybermathwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\mathbattle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\mathbattle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|c:\\users\\my\\source\\repos\\cybermathwebapp\\cybermathwebapp\\migrations\\20260603065429_addapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B600EE-40F1-00AC-1A80-A5D87ED46F8C}|CyberMathWebApp\\MathBattle.csproj|solutionrelative:cybermathwebapp\\migrations\\20260603065429_addapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,85 +110,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-26T21:40:15.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "game.js",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\js\\game.js",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\js\\game.js",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\js\\game.js",
-              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\js\\game.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-26T21:39:36.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-26T21:37:21.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\index.html",
-              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\index.html",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-26T21:33:12.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\GameController.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Controllers\\GameController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Competition.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\Competition.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Competition.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\Competition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:32:03.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T06:26:51.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DifficultiesController.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\DifficultiesController.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\DifficultiesController.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\DifficultiesController.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Controllers\\DifficultiesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:31:15.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20260526212646_Init.cs",
               "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212646_Init.cs",
               "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260526212646_Init.cs",
@@ -168,125 +130,19 @@
               "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260526212646_Init.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:26:46.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T21:26:46.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\AppDbContext.cs",
               "RelativeToolTip": "CyberMathWebApp\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:20:32.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260526215833_AddExpertLevel.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:58:33.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260526212951_Init.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:29:51.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Program.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:20:54.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GameSession.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameSession.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\GameSession.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameSession.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Models\\GameSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:19:57.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Difficulty.cs",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\Difficulty.cs",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Difficulty.cs",
-              "RelativeToolTip": "CyberMathWebApp\\Models\\Difficulty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T21:19:13.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\appsettings.json",
-              "RelativeToolTip": "CyberMathWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-26T21:15:52.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CyberMathWebApp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-26T21:15:49.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MathBattleDomain.csproj",
-              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\MathBattle.csproj",
-              "RelativeDocumentMoniker": "CyberMathWebApp\\MathBattle.csproj",
-              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\MathBattle.csproj",
-              "RelativeToolTip": "CyberMathWebApp\\MathBattle.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-26T20:44:25.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T21:20:32.779Z"
             },
             {
               "$type": "Document",
@@ -298,8 +154,250 @@
               "RelativeToolTip": "CyberMathWebApp\\Models\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T20:45:03.592Z",
+              "WhenOpened": "2026-05-26T20:45:03.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\appsettings.json",
+              "RelativeToolTip": "CyberMathWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T21:15:52.552Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\index.html",
+              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-26T21:33:12.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\js\\game.js",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\js\\game.js",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\js\\game.js",
+              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\js\\game.js",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAawKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-26T21:39:36.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompetitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\CompetitionsController.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\CompetitionsController.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\CompetitionsController.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Controllers\\CompetitionsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T06:29:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260603065429_AddApproval.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260603065429_AddApproval.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260603065429_AddApproval.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260603065429_AddApproval.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260603065429_AddApproval.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T06:54:29.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\GameController.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:32:03.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Equation.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Equation.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\Equation.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Equation.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\Equation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:58:22.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEquations.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\UserEquations.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\UserEquations.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\UserEquations.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\UserEquations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:04:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquationsController.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\EquationsController.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\EquationsController.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\EquationsController.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Controllers\\EquationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:00:26.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameLevel.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\GameLevel.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameLevel.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\GameLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:05:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Difficulty.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\Difficulty.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:19:13.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DifficultiesController.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\DifficultiesController.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Controllers\\DifficultiesController.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Controllers\\DifficultiesController.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Controllers\\DifficultiesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:31:15.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameSession.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Models\\GameSession.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Models\\GameSession.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Models\\GameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:19:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-26T21:37:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "CyberMathWebApp\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-26T21:40:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260526215833_AddExpertLevel.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260526215833_AddExpertLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:58:33.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260526212951_Init.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Migrations\\20260526212951_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:29:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Program.cs",
+              "RelativeToolTip": "CyberMathWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:20:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CyberMathWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T21:15:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MathBattle.csproj",
+              "DocumentMoniker": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\MathBattle.csproj",
+              "RelativeDocumentMoniker": "CyberMathWebApp\\MathBattle.csproj",
+              "ToolTip": "C:\\Users\\my\\source\\repos\\CyberMathWebApp\\CyberMathWebApp\\MathBattle.csproj",
+              "RelativeToolTip": "CyberMathWebApp\\MathBattle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T20:44:25.196Z"
             }
           ]
         }
